@@ -1,0 +1,12 @@
+.font1 {
+  font-style: oblique;
+  font-family: Arial;
+  text-align: right;
+  padding-right: 200px;
+}
+
+.font3 {/* cor e estilo da letra adotada em texto da pagina inicial indicando um telefone*/
+  color: #4682B4;
+  font-family: Arial;
+  padding-right: 5px;
+}
